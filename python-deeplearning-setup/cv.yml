@@ -7,10 +7,9 @@ dependencies:
     - python==3.6
     - numpy
     - jupyter
-    - opencv3
     - pillow
     - scipy
-    - tensorflow-gpu
+    - tensorflow
     - pytorch
     - torchvision
     - flask
