@@ -2,7 +2,7 @@
 
 1. Clone this repo
     - Need to have `git` installed for cloning (forking+cloning) this repo
-    - Alternatively, you can [download the repo here](https://github.com/soumendra/python-deeplearning-setup/archive/master.zip) and extract the content
+    - Alternatively, you can [download the repo here](https://github.com/jay-trivedi/sk-eye/archive/master.zip) and extract the content
 3. Change your current directory to the cloned/downloaded repo: `cd python-deeplearning-setup`
 4. Install the following scripts one-by-one
     - Make the scripts executable: run `chmod +x *.sh`
