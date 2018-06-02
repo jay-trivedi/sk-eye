@@ -1,13 +1,6 @@
-# What is this repo about?
-
-1. Quickly set-up Anaconda based Python (3.6) environment for deep learning (Keras, PyTorch) in Ubuntu 16.04 (xenial) or 18.04 (bionic)
-
 # The Setup (Ubuntu 16.04 or 18.04 in local workstation)
 
-1. Before you go through these installation steps:
-    - UEFI
-    - These scripts have been regularly used on systems with fresh Ubuntu installations
-2. Clone this repo
+1. Clone this repo
     - Need to have `git` installed for cloning (forking+cloning) this repo
     - Alternatively, you can [download the repo here](https://github.com/soumendra/python-deeplearning-setup/archive/master.zip) and extract the content
 3. Change your current directory to the cloned/downloaded repo: `cd python-deeplearning-setup`
